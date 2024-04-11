@@ -1,3 +1,3 @@
-module swaggo
+module BUILD-REST-API-PROJECT-BASED
 
 go 1.22.2
